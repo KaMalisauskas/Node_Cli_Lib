@@ -1,0 +1,15 @@
+{
+  "name": "cli_lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Cli.js",
+  "scripts": {
+    "start": "node Cli.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.1.2",
+    "chalk": "^2.4.1"
+  }
+}
